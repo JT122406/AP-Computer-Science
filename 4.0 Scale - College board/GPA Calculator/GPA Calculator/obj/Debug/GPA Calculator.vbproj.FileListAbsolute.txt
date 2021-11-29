@@ -1,0 +1,50 @@
+E:\J.T\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe.config
+E:\J.T\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe
+E:\J.T\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.pdb
+E:\J.T\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.xml
+E:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Form1.resources
+E:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Resources.resources
+E:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.vbproj.GenerateResource.Cache
+E:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.exe
+E:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.xml
+E:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.pdb
+G:\J.T\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe.config
+G:\J.T\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe
+G:\J.T\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.pdb
+G:\J.T\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.xml
+G:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.vbprojAssemblyReference.cache
+G:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Form1.resources
+G:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Resources.resources
+G:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.vbproj.GenerateResource.cache
+G:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.vbproj.CoreCompileInputs.cache
+G:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.exe
+G:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.xml
+G:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.pdb
+D:\J.T\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe.config
+D:\J.T\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe
+D:\J.T\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.pdb
+D:\J.T\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.xml
+D:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.vbprojAssemblyReference.cache
+D:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Form1.resources
+D:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Resources.resources
+D:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.vbproj.GenerateResource.cache
+D:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.vbproj.CoreCompileInputs.cache
+D:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.exe
+D:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.xml
+D:\J.T\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.pdb
+E:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe.config
+E:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.exe
+E:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.xml
+E:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.pdb
+D:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe.config
+D:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.exe
+D:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.pdb
+D:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\bin\Debug\GPA Calculator.xml
+D:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.vbprojAssemblyReference.cache
+D:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Form1.resources
+D:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\obj\Debug\GPA_Calculator.Resources.resources
+D:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.vbproj.GenerateResource.cache
+D:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.vbproj.CoreCompileInputs.cache
+D:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.exe
+D:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.xml
+D:\J.T\4.0 Scale - College board\GPA Calculator\GPA Calculator\obj\Debug\GPA Calculator.pdb
